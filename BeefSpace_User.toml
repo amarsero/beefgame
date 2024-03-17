@@ -1,0 +1,266 @@
+FileVersion = 1
+LastConfig = "Debug"
+LastPlatform = "Win64"
+RecentFilesList = ["src\\Program.bf", "e:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\System.bf", "e:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\Collections\\List.bf", "e:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\UInt.bf", "e:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\Object.bf", "Disassembly", "e:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\String.bf", "e:\\Program Files\\Beef\\BeefLibs\\SDL2\\src\\SDL2.bf", "src\\GL.bf", "e:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\Result.bf", "e:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\Float.bf", "Disassembly", "src\\OpenGLExample.cs", "src\\Math\\Vector3.bf", "e:\\Program Files\\Beef\\BeefLibs\\SDL2\\src\\SDL2_ttf.bf", "src\\GameApp.bf", "e:\\Program Files\\Beef\\BeefLibs\\SDL2\\src\\SDLApp.bf", "e:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\Allocator.bf", "e:\\Program Files\\Beef\\BeefLibs\\SDL2\\src\\BitmapFont.bf", "src\\Hero.bf"]
+
+[MainWindow]
+X = 348
+Y = 81
+Width = 1224
+Height = 918
+ShowKind = "Maximized"
+
+[MainDockingFrame]
+Type = "DockingFrame"
+SplitType = 2
+
+[[MainDockingFrame.DockedWidgets]]
+RequestedWidth = 350.0
+RequestedHeight = 200.0
+SizePriority = 200.0
+Type = "DockingFrame"
+SplitType = 1
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets]]
+RequestedWidth = 251.0
+RequestedHeight = 200.0
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Workspace"
+TabWidth = 113.8462
+Type = "ProjectPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets]]
+IsFillWidget = true
+Permanent = true
+RequestedWidth = 1664.4
+RequestedHeight = 150.0
+SizePriority = 1664.4
+DefaultDocumentsTabbedView = true
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "System.bf"
+TabWidth = 86.15385
+Type = "SourceViewPanel"
+FilePath = "e:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\System.bf"
+CursorPos = 1809
+VertPos = 1940.0
+ProjectName = "corlib"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "UInt.bf"
+TabWidth = 70.0
+Type = "SourceViewPanel"
+FilePath = "e:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\UInt.bf"
+CursorPos = 1528
+ProjectName = "corlib"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Object.bf"
+TabWidth = 83.07693
+Type = "SourceViewPanel"
+FilePath = "e:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\Object.bf"
+CursorPos = 121
+ProjectName = "corlib"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Disassembly"
+TabWidth = 120.7692
+Type = "DisassemblyPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Result.bf"
+TabWidth = 80.0
+Type = "SourceViewPanel"
+FilePath = "e:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\Result.bf"
+CursorPos = 265
+ProjectName = "corlib"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "List.bf"
+TabWidth = 63.84616
+Type = "SourceViewPanel"
+FilePath = "e:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\Collections\\List.bf"
+CursorPos = 10481
+ProjectName = "corlib"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "String.bf"
+TabWidth = 79.23077
+Type = "SourceViewPanel"
+FilePath = "e:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\String.bf"
+CursorPos = 89988
+ProjectName = "corlib"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "GL.bf"
+TabWidth = 60.0
+Type = "SourceViewPanel"
+FilePath = "src\\GL.bf"
+CursorPos = 114588
+ProjectName = "SpaceGame"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Vector3.bf"
+TabWidth = 89.23077
+Type = "SourceViewPanel"
+FilePath = "src\\Math\\Vector3.bf"
+CursorPos = 98
+ProjectName = "SpaceGame"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "SDL2_ttf.bf"
+TabWidth = 91.53847
+Type = "SourceViewPanel"
+FilePath = "e:\\Program Files\\Beef\\BeefLibs\\SDL2\\src\\SDL2_ttf.bf"
+CursorPos = 932
+ProjectName = "SDL2"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "SDLApp.bf"
+TabWidth = 90.76923
+Type = "SourceViewPanel"
+FilePath = "e:\\Program Files\\Beef\\BeefLibs\\SDL2\\src\\SDLApp.bf"
+CursorPos = 17
+ProjectName = "SDL2"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "OpenGLExample.cs"
+TabWidth = 141.5385
+Type = "SourceViewPanel"
+FilePath = "src\\OpenGLExample.cs"
+CursorPos = 3064
+ProjectName = "SpaceGame"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "SDL2.bf"
+TabWidth = 73.84615
+Type = "SourceViewPanel"
+FilePath = "e:\\Program Files\\Beef\\BeefLibs\\SDL2\\src\\SDL2.bf"
+CursorPos = 28079
+ProjectName = "SDL2"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Allocator.bf"
+TabWidth = 96.15385
+Type = "SourceViewPanel"
+FilePath = "e:\\Program Files\\Beef\\BeefLibs\\corlib\\src\\Allocator.bf"
+CursorPos = 274
+ProjectName = "corlib"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "BitmapFont.bf"
+TabWidth = 112.3077
+Type = "SourceViewPanel"
+FilePath = "e:\\Program Files\\Beef\\BeefLibs\\SDL2\\src\\BitmapFont.bf"
+ProjectName = "SDL2"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Hero.bf"
+TabWidth = 73.07693
+Type = "SourceViewPanel"
+FilePath = "src\\Hero.bf"
+CursorPos = 19
+ProjectName = "SpaceGame"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Explosion.bf"
+TabWidth = 100.0
+Type = "SourceViewPanel"
+FilePath = "src\\Explosion.bf"
+CursorPos = 56
+ProjectName = "SpaceGame"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "GameApp.bf"
+TabWidth = 103.0769
+Type = "SourceViewPanel"
+FilePath = "src\\GameApp.bf"
+CursorPos = 727
+ProjectName = "SpaceGame"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Program.bf"
+TabWidth = 95.38462
+Type = "SourceViewPanel"
+FilePath = "src\\Program.bf"
+CursorPos = 4370
+VertPos = 2960.0
+ProjectName = "SpaceGame"
+
+[[MainDockingFrame.DockedWidgets]]
+RequestedWidth = 250.0
+RequestedHeight = 338.0
+Type = "DockingFrame"
+SplitType = 1
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets]]
+RequestedWidth = 250.0
+RequestedHeight = 250.0
+SizePriority = 1918.0
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Errors"
+TabWidth = 83.84615
+Type = "ErrorsPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Memory"
+TabWidth = 98.46154
+Type = "MemoryPanel"
+AutoResize = "Auto_Mul8"
+RequestedWidth = 300.0
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Watch"
+TabWidth = 87.69231
+Type = "WatchPanel"
+Columns = [{Width = 260.0}, {Width = 260.0}, {Width = 260.0}]
+Items = ["vertices.Ptr[2]", ""]
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Auto"
+TabWidth = 78.46154
+Type = "AutoWatchPanel"
+Columns = [{Width = 260.0}, {Width = 260.0}, {Width = 260.0}]
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets]]
+RequestedWidth = 250.0
+RequestedHeight = 250.0
+SizePriority = 1918.0
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Find Results"
+TabWidth = 119.2308
+Type = "FindResultsPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Threads"
+TabWidth = 96.15385
+Type = "ThreadPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Call Stack"
+TabWidth = 106.1538
+Type = "CallStackPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Immediate"
+TabWidth = 113.0769
+Type = "ImmediatePanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Output"
+TabWidth = 92.30769
+Type = "OutputPanel"
+
+[[BookmarkFolders]]
+Title = ""
